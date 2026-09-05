@@ -40,8 +40,6 @@ The final dashboard — **"Vrinda Store Annual Report 2026"** — brings togethe
 [<img width="901" height="775" alt="image" src="https://github.com/user-attachments/assets/9326c0ce-9861-4ed6-b231-8e2d255b9c23" />
 ](dashboard.png)
 
-*(Image file: `dashboard.png` — keep it in the same folder as this README so it displays correctly.)*
-
 ---
 
 ## 🛠️ Tools Used
